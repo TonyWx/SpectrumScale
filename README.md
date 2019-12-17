@@ -1,2 +1,2 @@
 # SpectrumScale
-SpectrumScale Script
+SpectrumScale Script Set
